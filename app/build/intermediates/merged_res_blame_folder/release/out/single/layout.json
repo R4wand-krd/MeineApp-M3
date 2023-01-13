@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.r4wand.myapplication.app-mergeReleaseResources-28:/layout/activity_main.xml",
+        "source": "com.r4wand.myapplication.app-main-30:/layout/activity_main.xml"
+    }
+]
